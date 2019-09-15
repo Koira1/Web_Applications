@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.padding {
+  padding-left: 50px;
+}
+
+.board {
+  color: black;
+}
